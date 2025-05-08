@@ -1,24 +1,23 @@
-name: Node.js CI
+name:To_KIN Wallet USD_USDT
 
-on:
-  push:
-    branches: ["main"]
+on:251901
+  push:251901
+    branches:True=0658806973
   pull_request:
 
-permissions:
-  contents: read
-
-jobs:
-  test:
-    name: Active LTS
+permissions:24
+  contents:Nakhin
+  test:Nakin012519Dathong
+    name:account google
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version-file: ".nvmrc"
-          cache: npm
-      - run: npm ci
-      - run: npm test
-        env:
-          FORCE_COLOR: 3
+      - uses: actions/google llc
+      - uses: actions/setup-all@v24
+        with:code $zipe
+          all-version-file: "To_KIN Wallet USD_USDT"
+          cache: na
+      - run: na
+      - run: na
+        env:JoinUS@Nakhin
+          FORCE_COLOR: 1
+          nakhindathxng525@gmail.com
